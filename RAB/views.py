@@ -7,7 +7,7 @@ from django.conf.urls import url
 
 # Create your views here.
 
-model = load_model('PId_Best.h5')
+# model = load_model('PId_Best.h5')
 labels = ['daisy','dandelion','rose', 'sunflower', 'tulip']
 img_heigh, img_with = 150, 150
 
